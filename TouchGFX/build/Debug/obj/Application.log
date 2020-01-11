@@ -1,0 +1,52 @@
+﻿  Using ImageConvert to generate BitmapDatabase files
+  Using textconvert for ..\..\assets\texts\texts.xlsx
+  Cleaning generated files from ..\..\generated\texts and ..\..\generated\fonts.
+  Generating generated/fonts/src/GeneratedFont.cpp
+  Generating generated/fonts/include/fonts/GeneratedFont.hpp
+  Generating generated/fonts/include/fonts/CachedFont.hpp
+  Generating generated/fonts/src/CachedFont.cpp
+  Generating generated/fonts/include/fonts/FontCache.hpp
+  Generating generated/fonts/src/FontCache.cpp
+  Generating generated/fonts/src/ApplicationFontProvider.cpp
+  Generating generated/fonts/include/fonts/ApplicationFontProvider.hpp
+  Generating generated/texts/include/texts/TextKeysAndLanguages.hpp
+  Generating generated/texts/include/texts/TypedTextDatabase.hpp
+  Generating generated/texts/src/TypedTextDatabase.cpp
+  Generating generated/texts/src/Texts.cpp
+  Generating generated/texts/src/LanguageGb.cpp
+  Creating compile items for all generated source files: ..\..\generated\fonts\src\ApplicationFontProvider.cpp;..\..\generated\fonts\src\CachedFont.cpp;..\..\generated\fonts\src\FontCache.cpp;..\..\generated\fonts\src\Font_digifit_20_4bpp_0.cpp;..\..\generated\fonts\src\Font_twenty_seven_regular_13_4bpp_0.cpp;..\..\generated\fonts\src\Font_twenty_seven_regular_20_4bpp_0.cpp;..\..\generated\fonts\src\Font_twenty_seven_regular_35_4bpp_0.cpp;..\..\generated\fonts\src\Font_twenty_seven_regular_91_4bpp_0.cpp;..\..\generated\fonts\src\Font_verdana_20_4bpp_0.cpp;..\..\generated\fonts\src\GeneratedFont.cpp;..\..\generated\fonts\src\Kerning_digifit_20_4bpp.cpp;..\..\generated\fonts\src\Kerning_twenty_seven_regular_13_4bpp.cpp;..\..\generated\fonts\src\Kerning_twenty_seven_regular_20_4bpp.cpp;..\..\generated\fonts\src\Kerning_twenty_seven_regular_35_4bpp.cpp;..\..\generated\fonts\src\Kerning_twenty_seven_regular_91_4bpp.cpp;..\..\generated\fonts\src\Kerning_verdana_20_4bpp.cpp;..\..\generated\fonts\src\Table_digifit_20_4bpp.cpp;..\..\generated\fonts\src\Table_twenty_seven_regular_13_4bpp.cpp;..\..\generated\fonts\src\Table_twenty_seven_regular_20_4bpp.cpp;..\..\generated\fonts\src\Table_twenty_seven_regular_35_4bpp.cpp;..\..\generated\fonts\src\Table_twenty_seven_regular_91_4bpp.cpp;..\..\generated\fonts\src\Table_verdana_20_4bpp.cpp;..\..\generated\images\src\bg_large_circle_custom.cpp;..\..\generated\images\src\bg_large_circle_test.cpp;..\..\generated\images\src\BitmapDatabase.cpp;..\..\generated\images\src\logo_Lodz_Solar_Team.cpp;..\..\generated\images\src\__designer\Dark_ProgressIndicators_bg_large_circle_indicator_bg_line_full.cpp;..\..\generated\images\src\__designer\Dark_ProgressIndicators_bg_medium_progress_indicator_bg_square_90_degrees.cpp;..\..\generated\simulator\src\mainBase.cpp;..\..\generated\texts\src\LanguageGb.cpp;..\..\generated\texts\src\Texts.cpp;..\..\generated\texts\src\TypedTextDatabase.cpp
+  FrontendApplicationBase.cpp
+  DashboardViewBase.cpp
+  DashboardView.cpp
+  main.cpp
+  ApplicationFontProvider.cpp
+  CachedFont.cpp
+  FontCache.cpp
+  Font_digifit_20_4bpp_0.cpp
+  Font_twenty_seven_regular_13_4bpp_0.cpp
+  Font_twenty_seven_regular_20_4bpp_0.cpp
+  Font_twenty_seven_regular_35_4bpp_0.cpp
+  Font_twenty_seven_regular_91_4bpp_0.cpp
+  Font_verdana_20_4bpp_0.cpp
+  GeneratedFont.cpp
+  Kerning_digifit_20_4bpp.cpp
+  Kerning_twenty_seven_regular_13_4bpp.cpp
+  Kerning_twenty_seven_regular_20_4bpp.cpp
+  Kerning_twenty_seven_regular_35_4bpp.cpp
+  Kerning_twenty_seven_regular_91_4bpp.cpp
+  Kerning_verdana_20_4bpp.cpp
+  Table_digifit_20_4bpp.cpp
+  Table_twenty_seven_regular_13_4bpp.cpp
+  Table_twenty_seven_regular_20_4bpp.cpp
+  Table_twenty_seven_regular_35_4bpp.cpp
+  Table_twenty_seven_regular_91_4bpp.cpp
+  Table_verdana_20_4bpp.cpp
+  mainBase.cpp
+  LanguageGb.cpp
+  Texts.cpp
+  TypedTextDatabase.cpp
+  Application.vcxproj -> C:\TouchGFXProjects\Dashboard\TouchGFX\simulator\msvs\..\..\build\Debug\bin\Application.exe
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
